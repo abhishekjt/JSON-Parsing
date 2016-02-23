@@ -1,2 +1,3 @@
 # JSON-Parsing
-The code is written in Python , shows how a json file can be parsed and string manipulation.
+*The Wikipedia json is considered here. It is parsed using python,by importing json package.
+*The json file is read as JSON Object and by using string manipulation pageid,title and See also links are printed. 
